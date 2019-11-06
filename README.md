@@ -15,3 +15,4 @@
 1. Detailed descrption of issue with steps to replicate (if applicable).
 2. Visual edivence of issue such as screenshots or crashlogs (if applicable).
 3. iOS version, device and tweak version.
+4. Issue reports should follow this structure: [Tweak Name] - Breif issue description - [Tweak Version]
